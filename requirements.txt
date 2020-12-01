@@ -1,0 +1,7 @@
+click==7.1.2
+colorama==0.4.4
+importlib-metadata==2.1.0
+shellingham==1.3.2
+typer==0.3.2
+typer-cli==0.0.11
+zipp==3.4.0
